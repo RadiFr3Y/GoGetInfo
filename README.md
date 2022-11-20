@@ -11,7 +11,7 @@ type your target address example"google.com":
 
 </pre>
 
-## About Kitty
+## About GoGetInfo
 GoGetInfo can Find Information from your target site or your self
 
 ## Install and Run
