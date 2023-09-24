@@ -16,7 +16,7 @@ GoGetInfo can Find Information from your target site or your self
 
 ## Install and Run
 ```bash
-git clone https://github.com/theFr3Y/GoGetInfo/
+git clone https://github.com/RadiFr3Y/GoGetInfo/
 cd GoGetInfo
 go run main.go
 ````
